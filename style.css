@@ -1,0 +1,42 @@
+/*
+Theme Name: Szablon1
+Theme URI: 
+Author: Kelnerowski Wojciech
+Author URI: 
+Description: testowy szablon
+Version: 1.0
+License: -
+License URI: -
+Tags: dark, light, white, black, gray, one-column, two-columns,
+left-sidebar, custom-background, custom-colors, 
+custom-header, custom-menu, (...)
+*/
+
+.container
+{
+
+    display: block;
+    float: left;
+    background-color: grey;
+    text-align: right;
+    margin: 200px 200px 200px 200px
+    
+}
+
+e
+{
+
+    text-align: right;
+    margin: 100px 100px 100px 100px;
+
+}
+
+#title
+{
+
+    text-align: center;
+    display: block;
+    background-color: grey;
+    margin: 20px 20px 20px 20px;
+
+}
